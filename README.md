@@ -1,9 +1,9 @@
-![MasterHead](https://media.licdn.com/dms/image/C4D12AQESj72-s5gEKg/article-cover_image-shrink_720_1280/0/1626753867110?e=2147483647&v=beta&t=JOALVxWjySgR37iCdRMhNGmpCyYYDXlPdWk212JXdII)
+![MasterHead](https://media.licdn.com/dms/image/v2/C4D12AQESj72-s5gEKg/article-cover_image-shrink_600_2000/article-cover_image-shrink_600_2000/0/1626753867110?e=1776297600&v=beta&t=8AIpvtXjDXRVkrofWBSPv5C8dkahDOYBI0BWrg3CZhI)
 <h1 align="center">
     <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hello+There!+👋;+I'm+Sarowar+Ahmed!;" />
 </h1>
 <h3 align="center">A passionate AI/ML Developer</h3>
-<img align="right" alt="Coding" width="400" src="https://camo.githubusercontent.com/7de37139d0b4c1ce40865e799b446c0e963a3dd8fb68d239707237c40604fa3d/68747470733a2f2f63646e2e6472696262626c652e636f6d2f75736572732f3733303730332f73637265656e73686f74732f363538313234332f6176656e746f2e676966">
+<img align="right" alt="Coding" width="400" src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExZHF5NzV5N2Nma3VkZHZteDBiZ3JjNGs2ZXYydHl1cTRldGx6eWNndiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/qAtZM2gvjWhPjmclZE/giphy.gif">
 
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sarowarahmed&label=Profile%20views&color=0e75b6&style=flat" alt="sarowarahmed" /> </p>
@@ -62,7 +62,7 @@
 <br/>
 
 <div align="center">
-    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Thank+You!+For+Visiting;+See+You+Soon!;" />
+    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Thank+You!+For+Visiting;+Have+A+Nice+Day+😀;" />
 </div>
 
 <br/>
