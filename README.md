@@ -1,4 +1,5 @@
-<img width="1200" height="400" alt="Orange Gradient Hello Discord Profile Banner (1)" src="https://github.com/user-attachments/assets/b35cd388-ff5a-487e-949e-be3926a000d5" />
+<img width="900" height="300" alt="GreenandWhiteSimpleFloralThankYouVideo-ezgif com-video-to-gif-converter" src="https://github.com/user-attachments/assets/ab309e75-c60b-4ad6-9f21-4a192bb77d95" />
+
 
 
 <h1 align="center">
