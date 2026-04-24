@@ -1,4 +1,6 @@
-![MasterHead](https://media.licdn.com/dms/image/v2/C4D12AQESj72-s5gEKg/article-cover_image-shrink_600_2000/article-cover_image-shrink_600_2000/0/1626753867110?e=1776297600&v=beta&t=8AIpvtXjDXRVkrofWBSPv5C8dkahDOYBI0BWrg3CZhI)
+<img width="1200" height="400" alt="Orange Gradient Hello Discord Profile Banner (1)" src="https://github.com/user-attachments/assets/b35cd388-ff5a-487e-949e-be3926a000d5" />
+
+
 <h1 align="center">
     <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hello+There!+👋;+I'm+Sarowar+Ahmed!;" />
 </h1>
