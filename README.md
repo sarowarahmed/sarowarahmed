@@ -45,8 +45,11 @@
 
 <br/>
 
-<div align="center">
-    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Thank+You!+For+Visiting;+Have+A+Nice+Day+😀;" />
-</div>
+<h2 align="center">📊 My Contribution Activity</h2>
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/sarowarahmed/github-stats/main/graph.svg" width="90%">
+</p>
 
 <br/>
+
