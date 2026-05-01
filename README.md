@@ -45,7 +45,7 @@
 
 <br/>
 
-<h2 align="center">📊 My Contribution Activity</h2>
+<h2 align="center">⚡ GitHub Intelligence</h2>
 
 <p align="center">
   <img src="https://raw.githubusercontent.com/sarowarahmed/github-stats/main/graph.svg" width="90%">
