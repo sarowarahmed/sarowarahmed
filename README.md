@@ -52,7 +52,7 @@
 <h2 align="center">⚡ GitHub Intelligence</h2>
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/sarowarahmed/github-stats/main/graph.svg" width="90%">
+  <img src="https://raw.githubusercontent.com/sarowarahmed/github-stats/main/graph.svg" width="95%">
 </p>
 
 <br/>
