@@ -49,10 +49,18 @@
 
 <br/>
 
-<h2 align="center">⚡ GitHub Intelligence</h2>
+<h2 align="center">⚡ GitHub Intelligence Dashboard</h2>
 
 <p align="center">
   <img src="https://raw.githubusercontent.com/sarowarahmed/github-stats/main/graph.svg" width="95%">
+</p>
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/sarowarahmed/github-stats/main/weekly.svg" width="95%">
+</p>
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/sarowarahmed/github-stats/main/insights.svg" width="95%">
 </p>
 
 <br/>
